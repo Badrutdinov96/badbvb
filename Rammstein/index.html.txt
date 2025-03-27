@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAMMSTEIN | Official</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="#">HOME</a>
+            <a href="#">TOUR</a>
+            <a href="#">MUSIC</a>
+            <a href="#">MERCH</a>
+        </nav>
+    </header>
+    <main>
+        <div class="logo">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Rammstein_logo.svg/1200px-Rammstein_logo.svg.png" alt="Rammstein Logo">
+        </div>
+        <div class="fire-effect"></div>
+        <h1>NEW ALBUM OUT NOW</h1>
+        <button class="cta-button">LISTEN</button>
+    </main>
+    <footer>
+        <p>© 2024 RAMMSTEIN | ALL RIGHTS RESERVED</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
